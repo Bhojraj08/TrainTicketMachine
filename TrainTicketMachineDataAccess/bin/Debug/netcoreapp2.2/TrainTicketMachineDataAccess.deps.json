@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "TrainTicketMachineDataAccess/1.0.0": {
+        "dependencies": {
+          "SearchEngineData.cs": "1.0.0"
+        },
+        "runtime": {
+          "TrainTicketMachineDataAccess.dll": {}
+        }
+      },
+      "SearchEngineData.cs/1.0.0": {
+        "runtime": {
+          "SearchEngineData.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainTicketMachineDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngineData.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
